@@ -3,7 +3,7 @@
 anaconda_projects/
 
 # Ignore entire DataScience_Techinterex folder
-DataScience_Techinterex/
+# DataScience_Techinterex/
 
 # Optional: if you want to track the root of DataScience_Techinterex but ignore specific subfolders, use the following instead:
 # !DataScience_Techinterex/
