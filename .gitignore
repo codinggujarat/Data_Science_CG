@@ -3,7 +3,7 @@
 anaconda_projects/
 
 # Ignore entire DataScience_CG folder
-# DataScience_CG/
+DataScience_CG/
 
 # Optional: if you want to track the root of DataScience_CG but ignore specific subfolders, use the following instead:
 # !DataScience_CG/
