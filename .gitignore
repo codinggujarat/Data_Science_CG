@@ -12,7 +12,7 @@ DataScience_CG/
 
 # General .ipynb_checkpoints ignore rule (covers all folders)
 **/.ipynb_checkpoints/
-.gitignore
+
 # If "TASK 1 to TASK 8" are actual folder names like TASK 1, TASK 2, ..., TASK 8
 DataScience_CG/TASK 1*/
 DataScience_CG/TASK 2*/
